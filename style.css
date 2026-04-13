@@ -1,0 +1,39 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing:border-box
+}
+
+body{
+
+    background-color: orchid;
+}
+
+#menu-nav{
+    background-color:violet;
+    border: 50, 50, 0, 0;
+    padding:25px
+}
+
+#menu-nav ul {
+    list-style: none;
+    padding:0;
+    
+}
+
+#menu-nav ul li{
+    display: inline;
+}
+
+#menu-nav ul li a{
+    padding:20px;
+    color:white;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+#menu-nav ul li a:hover{
+    color: darkorchid;
+}
+
